@@ -1,0 +1,3299 @@
+[
+  {
+    "id": "4121da86-14c9-441f-a950-9a2eb8391a64",
+    "isAiGenerated": false,
+    "featured": false,
+    "name": "a",
+    "slug": "a-08734129",
+    "imageUrl": "https://ifzp2hwuc5.ufs.sh/f/RFyaFWbnYvRpXhHsvdMwVxFWaPU1t6RphJeouvrzIOySKTjl",
+    "authorId": 34748,
+    "authorName": "davi8647",
+    "authorUsername": "davi8647",
+    "nodeTransformation": {
+      "Body": {
+        "rotation": [
+          1.5707963267948966,
+          0,
+          0
+        ],
+        "translation": [
+          0,
+          0,
+          0
+        ]
+      },
+      "Head": {
+        "scale": 1,
+        "rotation": [
+          0.3884135072320212,
+          0.03395604273219314,
+          0.15682528323893266
+        ],
+        "translation": [
+          0,
+          0.6,
+          0
+        ]
+      },
+      "Main": {
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "translation": [
+          0,
+          -0.3926849365234375,
+          0
+        ]
+      },
+      "Chest": {
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "translation": [
+          0,
+          0.6,
+          0
+        ]
+      },
+      "Center": {
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "translation": [
+          0,
+          0,
+          1.6119829416275024
+        ]
+      },
+      "__heldItems": {
+        "offHandItem": {
+          "itemGlint": false,
+          "itemScale": [
+            0.085,
+            0.085,
+            0.085
+          ],
+          "itemEnabled": true,
+          "itemTexture": "/textures/items/mace.png",
+          "itemRotation": [
+            0.05235987755982988,
+            1.6929693744344996,
+            -0.19198621771937624
+          ],
+          "itemTranslation": [
+            -0.03,
+            0.83,
+            -0.56
+          ]
+        },
+        "mainHandItem": {
+          "itemGlint": false,
+          "itemScale": [
+            0.085,
+            0.085,
+            0.085
+          ],
+          "itemEnabled": true,
+          "itemTexture": "/textures/items/diamond_spear.png",
+          "itemRotation": [
+            0,
+            1.570796,
+            -0.785398
+          ],
+          "itemTranslation": [
+            0,
+            0.35,
+            -0.87
+          ]
+        }
+      },
+      "ArmLeftLower": {
+        "scale": 1,
+        "rotation": [
+          0.038504212310764806,
+          0,
+          0
+        ],
+        "translation": [
+          0,
+          0.4,
+          0
+        ]
+      },
+      "ArmLeftUpper": {
+        "scale": 1,
+        "rotation": [
+          2.1709035136596437,
+          -0.06999146096115526,
+          -0.030253180875751226
+        ],
+        "translation": [
+          0.6,
+          0.41,
+          0
+        ]
+      },
+      "LegLeftLower": {
+        "scale": 1,
+        "rotation": [
+          0.44934992926009243,
+          0,
+          0
+        ],
+        "translation": [
+          0,
+          0.6,
+          0
+        ]
+      },
+      "LegLeftUpper": {
+        "scale": 1,
+        "rotation": [
+          -1.378171175832859,
+          0,
+          0
+        ],
+        "translation": [
+          0.2,
+          0,
+          0
+        ]
+      },
+      "ArmRightLower": {
+        "scale": 1,
+        "rotation": [
+          -0.5800522617633362,
+          0,
+          0
+        ],
+        "translation": [
+          0,
+          0.4,
+          0
+        ]
+      },
+      "ArmRightUpper": {
+        "rotation": [
+          3.141592653589793,
+          0,
+          0
+        ],
+        "translation": [
+          -0.6,
+          0.4,
+          0
+        ]
+      },
+      "LegRightLower": {
+        "scale": 1,
+        "rotation": [
+          -0.04295209193972797,
+          0,
+          0
+        ],
+        "translation": [
+          0,
+          0.6,
+          0
+        ]
+      },
+      "LegRightUpper": {
+        "scale": 1,
+        "rotation": [
+          -2.210965933545105,
+          0,
+          0
+        ],
+        "translation": [
+          -0.2,
+          0,
+          0
+        ]
+      }
+    },
+    "status": "public",
+    "createdAt": "$D2026-09-13T22:33:31.216Z",
+    "updatedAt": "$D2026-09-13T22:33:31.216Z",
+    "viewCount": 7,
+    "renderCount": 2,
+    "aiDescription": "A dynamic Minecraft pose featuring a character leaning forward with two weapons ready — ideal for high-stakes PvP YouTube thumbnails and combat render scenes."
+  },
+  {
+    "id": "34444095-c37c-45be-87a8-f73e9874ab2e",
+    "isAiGenerated": false,
+    "featured": false,
+    "name": "Legends never dies",
+    "slug": "legends-never-dies-2b87b152",
+    "imageUrl": "https://ifzp2hwuc5.ufs.sh/f/RFyaFWbnYvRpxymYl3heKlXrwfjgNSdvBm5QDMuULtnG0k1V",
+    "authorId": 34350,
+    "authorName": "suuseesyy",
+    "authorUsername": "suuseesyy",
+    "nodeTransformation": {
+      "Body": {
+        "rotation": [
+          1.5707963267948966,
+          0,
+          0
+        ],
+        "translation": [
+          0,
+          0,
+          0
+        ]
+      },
+      "Head": {
+        "scale": 1,
+        "rotation": [
+          -0.4886921905584123,
+          0,
+          0
+        ],
+        "translation": [
+          0,
+          0.6,
+          0
+        ]
+      },
+      "Main": {
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "translation": [
+          0,
+          -0.3926849365234375,
+          0
+        ]
+      },
+      "Chest": {
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "translation": [
+          0,
+          0.6,
+          0
+        ]
+      },
+      "Center": {
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "translation": [
+          0,
+          0,
+          1.6119829416275024
+        ]
+      },
+      "__armor": {
+        "armor": {
+          "bootsTier": "netherite",
+          "helmetTier": "netherite",
+          "layer1Tier": "netherite",
+          "layer2Tier": "netherite",
+          "glintEnabled": false,
+          "leatherDyeL1": "#c65c00",
+          "leatherDyeL2": "#c65c00",
+          "leggingsTier": "netherite",
+          "elytraEnabled": false,
+          "layer1Enabled": true,
+          "layer2Enabled": true,
+          "chestplateTier": "netherite",
+          "bootsTrimPattern": "snout",
+          "elytraTextureUrl": null,
+          "bootsTrimMaterial": "amethyst",
+          "helmetTrimPattern": "snout",
+          "helmetTrimMaterial": "gold",
+          "leggingsTrimPattern": "sentry",
+          "leggingsTrimMaterial": "netherite",
+          "chestplateTrimPattern": "flow",
+          "chestplateTrimMaterial": "redstone"
+        }
+      },
+      "__scene": {
+        "version": 1,
+        "entities": [
+          {
+            "id": "e_36a673ee",
+            "type": "player",
+            "placement": {
+              "scale": 1,
+              "position": [
+                -0.05,
+                -1,
+                0
+              ],
+              "rotation": [
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        ]
+      },
+      "__heldItems": {
+        "offHandItem": {
+          "itemGlint": false,
+          "itemScale": [
+            0.06,
+            0.06,
+            0.06
+          ],
+          "itemEnabled": true,
+          "itemTexture": "/textures/items/totem_of_undying.png",
+          "itemRotation": [
+            -1.6580627893946132,
+            0,
+            0
+          ],
+          "itemTranslation": [
+            0,
+            0.57,
+            -0.25
+          ]
+        },
+        "mainHandItem": {
+          "itemGlint": false,
+          "itemScale": [
+            0.075,
+            0.075,
+            0.075
+          ],
+          "itemEnabled": true,
+          "itemTexture": "/textures/items/netherite_sword.png",
+          "itemRotation": [
+            0,
+            1.570796,
+            -0.785398
+          ],
+          "itemTranslation": [
+            0,
+            0.35,
+            -0.6
+          ]
+        }
+      },
+      "ArmLeftLower": {
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "translation": [
+          0,
+          0.4,
+          0
+        ]
+      },
+      "ArmLeftUpper": {
+        "scale": 1,
+        "rotation": [
+          2.5986227814921494,
+          0,
+          0
+        ],
+        "translation": [
+          0.6,
+          0.41,
+          0
+        ]
+      },
+      "LegLeftLower": {
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "translation": [
+          0,
+          0.6,
+          0
+        ]
+      },
+      "LegLeftUpper": {
+        "rotation": [
+          -1.5707963267948966,
+          0,
+          0
+        ],
+        "translation": [
+          0.2,
+          0,
+          0
+        ]
+      },
+      "ArmRightLower": {
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "translation": [
+          0,
+          0.4,
+          0
+        ]
+      },
+      "ArmRightUpper": {
+        "scale": 1,
+        "rotation": [
+          2.4262452120979114,
+          0,
+          0
+        ],
+        "translation": [
+          -0.6,
+          0.4,
+          0
+        ]
+      },
+      "LegRightLower": {
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "translation": [
+          0,
+          0.6,
+          0
+        ]
+      },
+      "LegRightUpper": {
+        "rotation": [
+          -1.5707963267948966,
+          0,
+          0
+        ],
+        "translation": [
+          -0.2,
+          0,
+          0
+        ]
+      }
+    },
+    "status": "public",
+    "createdAt": "2026-09-18T17:31:01.617Z",
+    "updatedAt": "2026-09-18T17:31:01.617Z",
+    "viewCount": 0,
+    "renderCount": 0,
+    "aiDescription": "This heroic Minecraft pose features a character looking upward while clutching a sword, making it an ideal choice for high-stakes survival thumbnail renders."
+  },
+  {
+    "id": "43102913-3b75-446e-ab50-1a30704daf90",
+    "isAiGenerated": false,
+    "featured": false,
+    "name": "hehe",
+    "slug": "hehe-673e6a2d",
+    "imageUrl": "https://ifzp2hwuc5.ufs.sh/f/RFyaFWbnYvRpE3jm8bFe497osF10S5ckg2lfYxOpZeXJnR8G",
+    "authorId": 35077,
+    "authorName": "kacuk",
+    "authorUsername": "kacuk",
+    "nodeTransformation": {
+      "Body": {
+        "scale": 1,
+        "rotation": [
+          1.3089969389957472,
+          0,
+          0
+        ],
+        "translation": [
+          0,
+          0,
+          0
+        ]
+      },
+      "Head": {
+        "scale": 1,
+        "rotation": [
+          0.17453292519943295,
+          0.3141592653589793,
+          0
+        ],
+        "translation": [
+          0,
+          0.6,
+          0
+        ]
+      },
+      "Main": {
+        "rotation": [
+          0,
+          0,
+          0
+        ]
+      },
+      "Chest": {
+        "scale": 1,
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "translation": [
+          0,
+          0.6,
+          0
+        ]
+      },
+      "Center": {
+        "rotation": [
+          0,
+          0,
+          0
+        ]
+      },
+      "ArmLeftLower": {
+        "scale": 1,
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "translation": [
+          0,
+          0.4,
+          0
+        ]
+      },
+      "ArmLeftUpper": {
+        "scale": 1,
+        "rotation": [
+          -2.8623399732707,
+          -0.2792526803190927,
+          0
+        ],
+        "translation": [
+          0.61,
+          0.41,
+          0
+        ]
+      },
+      "LegLeftLower": {
+        "scale": 1,
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "translation": [
+          0,
+          0.6,
+          0
+        ]
+      },
+      "LegLeftUpper": {
+        "scale": 1,
+        "rotation": [
+          -1.6231562043547263,
+          -0.7853981633974483,
+          0
+        ],
+        "translation": [
+          0.2,
+          0,
+          0
+        ]
+      },
+      "ArmRightLower": {
+        "scale": 1,
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "translation": [
+          0,
+          0.4,
+          0
+        ]
+      },
+      "ArmRightUpper": {
+        "scale": 1,
+        "rotation": [
+          -2.7576202181510405,
+          -0.17453292519943295,
+          0.17453292519943295
+        ],
+        "translation": [
+          -0.6,
+          0.4,
+          0
+        ]
+      },
+      "LegRightLower": {
+        "scale": 1,
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "translation": [
+          0,
+          0.6,
+          0
+        ]
+      },
+      "LegRightUpper": {
+        "scale": 1,
+        "rotation": [
+          -1.8675022996339325,
+          0,
+          0
+        ],
+        "translation": [
+          -0.2,
+          0,
+          0
+        ]
+      }
+    },
+    "status": "public",
+    "createdAt": "$D2026-09-18T04:01:58.566Z",
+    "updatedAt": "$D2026-09-18T04:01:58.566Z",
+    "viewCount": 0,
+    "renderCount": 0,
+    "aiDescription": "A natural Minecraft pose featuring a character standing at a slight angle while looking away—ideal for relaxed YouTube thumbnail art or simple profile renders."
+  },
+  {
+    "id": "c7d8987f-ec35-4e94-a1ee-e7bcc851c19a",
+    "isAiGenerated": false,
+    "featured": false,
+    "name": "Braços cruzados",
+    "slug": "braos-cruz-oFXrKB",
+    "imageUrl": "https://ifzp2hwuc5.ufs.sh/f/RFyaFWbnYvRpX4fHPIuMwVxFWaPU1t6RphJeouvrzIOySKTj",
+    "authorId": 118,
+    "authorName": "spuderman",
+    "authorUsername": "spuderman",
+    "nodeTransformation": {
+      "Body": {
+        "rotation": [
+          1.5707963267948966,
+          -0.03490658503988659,
+          0
+        ]
+      },
+      "Head": {
+        "rotation": [
+          0,
+          -0.47123889803846897,
+          0
+        ]
+      },
+      "Main": {
+        "rotation": [
+          0,
+          0,
+          0
+        ]
+      },
+      "Chest": {
+        "rotation": [
+          0,
+          0,
+          0
+        ]
+      },
+      "Center": {
+        "rotation": [
+          0,
+          0,
+          0
+        ]
+      },
+      "ArmLeftLower": {
+        "rotation": [
+          -0.19198621771937624,
+          -0.22689280275926285,
+          0.8726646259971648
+        ]
+      },
+      "ArmLeftUpper": {
+        "rotation": [
+          1.7627825445142729,
+          0.17453292519943295,
+          0.3490658503988659
+        ]
+      },
+      "LegLeftLower": {
+        "rotation": [
+          0,
+          0,
+          0
+        ]
+      },
+      "LegLeftUpper": {
+        "rotation": [
+          -1.5707963267948966,
+          0,
+          -0.13962634015954636
+        ]
+      },
+      "ArmRightLower": {
+        "rotation": [
+          0.05235987755982988,
+          0,
+          -0.7853981633974483
+        ]
+      },
+      "ArmRightUpper": {
+        "rotation": [
+          2.1816615649929116,
+          -0.2617993877991494,
+          -0.3665191429188092
+        ]
+      },
+      "LegRightLower": {
+        "rotation": [
+          0,
+          0,
+          0
+        ]
+      },
+      "LegRightUpper": {
+        "rotation": [
+          -1.5707963267948966,
+          0.3839724354387525,
+          0.03490658503988659
+        ]
+      }
+    },
+    "status": "public",
+    "createdAt": "$D2025-10-09T11:03:12.676Z",
+    "updatedAt": "$D2026-04-21T16:17:37.701Z",
+    "viewCount": 455,
+    "renderCount": 452,
+    "aiDescription": "This Minecraft pose depicts a character casually leaning forward with a hand on their hip, great for creating server banner renders or a thoughtful YouTube t..."
+  },
+  {
+    "id": "af25d0ea-f7de-4c47-a1ac-a5797e74c56f",
+    "isAiGenerated": false,
+    "featured": false,
+    "name": "looking",
+    "slug": "looking-MMR6JO",
+    "imageUrl": "https://ifzp2hwuc5.ufs.sh/f/RFyaFWbnYvRp3fdrwb5dRDJxUBr94lIzGLy2wFWvt6cAhXS7",
+    "authorId": 3,
+    "authorName": "diversifiedplayz",
+    "authorUsername": "diversifiedplayz",
+    "nodeTransformation": {
+      "Body": {
+        "rotation": [
+          1.5707963267948966,
+          0,
+          0
+        ]
+      },
+      "Head": {
+        "rotation": [
+          -0.3490658503988659,
+          0,
+          0
+        ]
+      },
+      "Main": {
+        "rotation": [
+          0,
+          0,
+          0
+        ]
+      },
+      "Chest": {
+        "rotation": [
+          0,
+          0,
+          0
+        ]
+      },
+      "Center": {
+        "rotation": [
+          0,
+          0,
+          0
+        ]
+      },
+      "ArmLeftLower": {
+        "rotation": [
+          0,
+          0,
+          0
+        ]
+      },
+      "ArmLeftUpper": {
+        "rotation": [
+          3.141592653589793,
+          0,
+          -0.17453292519943295
+        ]
+      },
+      "LegLeftLower": {
+        "rotation": [
+          0,
+          0,
+          0
+        ]
+      },
+      "LegLeftUpper": {
+        "rotation": [
+          -1.5707963267948966,
+          0,
+          0
+        ]
+      },
+      "ArmRightLower": {
+        "rotation": [
+          0,
+          0,
+          0
+        ]
+      },
+      "ArmRightUpper": {
+        "rotation": [
+          3.141592653589793,
+          0,
+          0.17453292519943295
+        ]
+      },
+      "LegRightLower": {
+        "rotation": [
+          0,
+          0,
+          0
+        ]
+      },
+      "LegRightUpper": {
+        "rotation": [
+          -1.5707963267948966,
+          0,
+          0
+        ]
+      }
+    },
+    "status": "public",
+    "createdAt": "$D2025-09-20T17:26:42.751Z",
+    "updatedAt": "$D2025-09-20T17:26:42.751Z",
+    "viewCount": 5418,
+    "renderCount": 3254,
+    "aiDescription": null
+  },
+  {
+    "id": "90bb3ba6-bbe5-4603-ba40-2dff16668d81",
+    "isAiGenerated": false,
+    "featured": false,
+    "name": "Sitting",
+    "slug": "sitting-jfmENd",
+    "imageUrl": "https://ifzp2hwuc5.ufs.sh/f/RFyaFWbnYvRpCIR82s1vsUL8pPWnHCYVbgz3GFNhREi1jKmQ",
+    "authorId": 117,
+    "authorName": "16hfp",
+    "authorUsername": "16hfp",
+    "nodeTransformation": {
+      "Body": {
+        "rotation": [
+          1.2217304763960306,
+          0,
+          0
+        ]
+      },
+      "Head": {
+        "rotation": [
+          -0.24434609527920614,
+          0,
+          0
+        ]
+      },
+      "Main": {
+        "rotation": [
+          0,
+          0,
+          0
+        ]
+      },
+      "Chest": {
+        "rotation": [
+          0,
+          0,
+          0
+        ]
+      },
+      "Center": {
+        "rotation": [
+          0,
+          0,
+          0
+        ]
+      },
+      "ArmLeftLower": {
+        "rotation": [
+          0,
+          0,
+          0
+        ]
+      },
+      "ArmLeftUpper": {
+        "rotation": [
+          -2.705260340591211,
+          0,
+          0
+        ]
+      },
+      "LegLeftLower": {
+        "rotation": [
+          0,
+          0,
+          0
+        ]
+      },
+      "LegLeftUpper": {
+        "rotation": [
+          -3.141592653589793,
+          0,
+          -0.17453292519943295
+        ]
+      },
+      "ArmRightLower": {
+        "rotation": [
+          0,
+          0,
+          0
+        ]
+      },
+      "ArmRightUpper": {
+        "rotation": [
+          -2.705260340591211,
+          0,
+          0
+        ]
+      },
+      "LegRightLower": {
+        "rotation": [
+          0,
+          0,
+          0
+        ]
+      },
+      "LegRightUpper": {
+        "rotation": [
+          -3.141592653589793,
+          0,
+          0.20943951023931953
+        ]
+      }
+    },
+    "status": "public",
+    "createdAt": "$D2025-10-09T03:06:58.193Z",
+    "updatedAt": "$D2026-04-21T16:06:35.195Z",
+    "viewCount": 3413,
+    "renderCount": 2871,
+    "aiDescription": "This relaxed Minecraft pose shows a character seated with legs outstretched and arms resting â ideal for creating chill YouTube thumbnails, server banners, o..."
+  },
+  {
+    "id": "4d5f4f0f-6757-4f99-8b5b-39ea2318b122",
+    "isAiGenerated": false,
+    "featured": false,
+    "name": "sit",
+    "slug": "sit-540ff645",
+    "imageUrl": "https://ifzp2hwuc5.ufs.sh/f/RFyaFWbnYvRpxunjWNheKlXrwfjgNSdvBm5QDMuULtnG0k1V",
+    "authorId": 32661,
+    "authorName": "tiden",
+    "authorUsername": "tiden",
+    "nodeTransformation": {
+      "Body": {
+        "rotation": [
+          1.2217304763960306,
+          0,
+          0
+        ]
+      },
+      "Head": {
+        "rotation": [
+          -0.24434609527920614,
+          0,
+          0
+        ]
+      },
+      "Main": {
+        "rotation": [
+          0,
+          0,
+          0
+        ]
+      },
+      "Chest": {
+        "rotation": [
+          0,
+          0,
+          0
+        ]
+      },
+      "Center": {
+        "rotation": [
+          0,
+          0,
+          0
+        ]
+      },
+      "ArmLeftLower": {
+        "rotation": [
+          0,
+          0,
+          0
+        ]
+      },
+      "ArmLeftUpper": {
+        "rotation": [
+          -2.705260340591211,
+          0,
+          0
+        ]
+      },
+      "LegLeftLower": {
+        "rotation": [
+          0,
+          0,
+          0
+        ]
+      },
+      "LegLeftUpper": {
+        "rotation": [
+          -3.141592653589793,
+          0,
+          -0.17453292519943295
+        ]
+      },
+      "ArmRightLower": {
+        "rotation": [
+          0,
+          0,
+          0
+        ]
+      },
+      "ArmRightUpper": {
+        "rotation": [
+          -2.705260340591211,
+          0,
+          0
+        ]
+      },
+      "LegRightLower": {
+        "rotation": [
+          0,
+          0,
+          0
+        ]
+      },
+      "LegRightUpper": {
+        "rotation": [
+          -3.141592653589793,
+          0,
+          0.20943951023931953
+        ]
+      }
+    },
+    "status": "public",
+    "createdAt": "$D2026-08-22T19:57:20.492Z",
+    "updatedAt": "$D2026-08-22T19:57:20.492Z",
+    "viewCount": 2886,
+    "renderCount": 162,
+    "aiDescription": "A relaxed Minecraft pose featuring a character sitting on the ground with a tilted head and limp arms, ideal for sad story thumbnails or AFK render scenes."
+  },
+  {
+    "id": "756196db-bc89-49b0-b267-b19b629328e7",
+    "isAiGenerated": false,
+    "featured": false,
+    "name": "Star Platinum",
+    "slug": "star-plati-DAjBum",
+    "imageUrl": "https://ifzp2hwuc5.ufs.sh/f/RFyaFWbnYvRp8kQTVoYBP5mK2ylTI49EOtFUZSRr3HdXaN6g",
+    "authorId": 187,
+    "authorName": "tori",
+    "authorUsername": "tori",
+    "nodeTransformation": {
+      "Body": {
+        "rotation": [
+          1.5707963267948966,
+          0.06981317007977318,
+          0
+        ]
+      },
+      "Head": {
+        "rotation": [
+          0.19198621771937624,
+          0.40142572795869574,
+          0
+        ]
+      },
+      "Main": {
+        "rotation": [
+          0,
+          0,
+          0
+        ]
+      },
+      "Chest": {
+        "rotation": [
+          0,
+          0,
+          0
+        ]
+      },
+      "Center": {
+        "rotation": [
+          0,
+          0,
+          0
+        ]
+      },
+      "ArmLeftLower": {
+        "rotation": [
+          -1.0122909661567112,
+          0,
+          0
+        ]
+      },
+      "ArmLeftUpper": {
+        "rotation": [
+          2.251474735072685,
+          -0.017453292519943295,
+          -1.3089969389957472
+        ]
+      },
+      "LegLeftLower": {
+        "rotation": [
+          0.24434609527920614,
+          0,
+          0
+        ]
+      },
+      "LegLeftUpper": {
+        "rotation": [
+          -1.5707963267948966,
+          0,
+          -0.12217304763960307
+        ]
+      },
+      "ArmRightLower": {
+        "rotation": [
+          -0.5934119456780721,
+          0,
+          0
+        ]
+      },
+      "ArmRightUpper": {
+        "rotation": [
+          3.12413936106985,
+          0.41887902047863906,
+          0.22689280275926285
+        ]
+      },
+      "LegRightLower": {
+        "rotation": [
+          0.22689280275926285,
+          0,
+          0
+        ]
+      },
+      "LegRightUpper": {
+        "rotation": [
+          -1.5707963267948966,
+          0,
+          0.12217304763960307
+        ]
+      }
+    },
+    "status": "public",
+    "createdAt": "$D2025-10-12T11:04:00.429Z",
+    "updatedAt": "$D2026-04-21T16:06:54.737Z",
+    "viewCount": 2498,
+    "renderCount": 2303,
+    "aiDescription": "This Minecraft pose features a character standing with one arm extended in a friendly wave, ideal for welcoming viewers in a YouTube thumbnail or banner render."
+  },
+  {
+    "id": "ea7a8c75-63a8-4728-a400-d13dd9f9247e",
+    "isAiGenerated": false,
+    "featured": false,
+    "name": "Mace Attack",
+    "slug": "mace-attack-4d46066f",
+    "imageUrl": "https://ifzp2hwuc5.ufs.sh/f/RFyaFWbnYvRpLRqFxe1TtiF3Gr9nYj5umAMRHJIXcxf1hUws",
+    "authorId": 25265,
+    "authorName": "knightz18yr",
+    "authorUsername": "knightz18yr",
+    "nodeTransformation": {
+      "Body": {
+        "rotation": [
+          1.2915436464758039,
+          0,
+          0
+        ],
+        "translation": [
+          0,
+          0,
+          0
+        ]
+      },
+      "Head": {
+        "rotation": [
+          -0.05235987755982988,
+          0.767944870877505,
+          0
+        ],
+        "translation": [
+          0,
+          0.6,
+          0
+        ]
+      },
+      "Main": {
+        "rotation": [
+          0,
+          0,
+          0
+        ]
+      },
+      "Chest": {
+        "rotation": [
+          0,
+          0,
+          0
+        ]
+      },
+      "Center": {
+        "rotation": [
+          0,
+          0,
+          0
+        ]
+      },
+      "ArmLeftLower": {
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "translation": [
+          0,
+          0.4,
+          0
+        ]
+      },
+      "ArmLeftUpper": {
+        "rotation": [
+          3.141592653589793,
+          0,
+          -0.47123889803846897
+        ],
+        "translation": [
+          0.6,
+          0.41,
+          0
+        ]
+      },
+      "LegLeftLower": {
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "translation": [
+          0,
+          0.6,
+          0
+        ]
+      },
+      "LegLeftUpper": {
+        "rotation": [
+          -2.129301687433082,
+          0,
+          0
+        ],
+        "translation": [
+          0.2,
+          0,
+          0
+        ]
+      },
+      "ArmRightLower": {
+        "rotation": [
+          -0.6632251157578452,
+          0,
+          0
+        ],
+        "translation": [
+          0,
+          0.4,
+          0
+        ]
+      },
+      "ArmRightUpper": {
+        "rotation": [
+          0.9773843811168246,
+          0.12217304763960307,
+          1.2740903539558606
+        ],
+        "translation": [
+          -0.6,
+          0.4,
+          0
+        ]
+      },
+      "LegRightLower": {
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "translation": [
+          0,
+          0.6,
+          0
+        ]
+      },
+      "LegRightUpper": {
+        "rotation": [
+          -1.3439035240356338,
+          0,
+          0
+        ],
+        "translation": [
+          -0.2,
+          0,
+          0
+        ]
+      }
+    },
+    "status": "public",
+    "createdAt": "$D2026-05-23T13:20:58.140Z",
+    "updatedAt": "$D2026-05-23T13:20:58.140Z",
+    "viewCount": 2372,
+    "renderCount": 459,
+    "aiDescription": ""
+  },
+  {
+    "id": "5df081e6-d585-4a5a-a38d-b1fa7a1b7e58",
+    "isAiGenerated": false,
+    "featured": false,
+    "name": "Looking Down",
+    "slug": "looking-down-0a0528e1",
+    "imageUrl": "https://ifzp2hwuc5.ufs.sh/f/RFyaFWbnYvRpWCvJ8XGQ7FdoHIbC1kB2SUWtjL8PATJw3609",
+    "authorId": 24019,
+    "authorName": "defect808",
+    "authorUsername": "defect808",
+    "nodeTransformation": {
+      "Body": {
+        "rotation": [
+          1.5707963267948966,
+          0,
+          0
+        ]
+      },
+      "Head": {
+        "scale": 1,
+        "rotation": [
+          0.8040893666783713,
+          0.38544042529288486,
+          -0.34682316619791836
+        ],
+        "translation": [
+          0,
+          0.6,
+          0
+        ]
+      },
+      "Main": {
+        "rotation": [
+          0,
+          0,
+          0
+        ]
+      },
+      "Chest": {
+        "rotation": [
+          0,
+          0,
+          0
+        ]
+      },
+      "Center": {
+        "rotation": [
+          0,
+          0,
+          0
+        ]
+      },
+      "ArmLeftLower": {
+        "scale": 1,
+        "rotation": [
+          -0.15855864918811213,
+          0.06640889962928571,
+          0.08685027656432442
+        ],
+        "translation": [
+          0,
+          0.4,
+          0
+        ]
+      },
+      "ArmLeftUpper": {
+        "scale": 1,
+        "rotation": [
+          2.970696252915763,
+          -0.16856499932547625,
+          -0.31704485192305293
+        ],
+        "translation": [
+          0.6,
+          0.41,
+          0
+        ]
+      },
+      "LegLeftLower": {
+        "scale": 1,
+        "rotation": [
+          0.24358585199312685,
+          -0.04628396417348114,
+          0.032932301656860605
+        ],
+        "translation": [
+          0,
+          0.6,
+          0
+        ]
+      },
+      "LegLeftUpper": {
+        "scale": 1,
+        "rotation": [
+          -1.808406865096272,
+          -0.2817134637239691,
+          -0.24432825482357373
+        ],
+        "translation": [
+          0.2,
+          0,
+          0
+        ]
+      },
+      "ArmRightLower": {
+        "scale": 1,
+        "rotation": [
+          0,
+          0,
+          0.09121804094078258
+        ],
+        "translation": [
+          0,
+          0.4,
+          0
+        ]
+      },
+      "ArmRightUpper": {
+        "scale": 1,
+        "rotation": [
+          3.141592653589793,
+          0.5077140896651869,
+          0
+        ],
+        "translation": [
+          -0.6,
+          0.4,
+          0
+        ]
+      },
+      "LegRightLower": {
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "translation": [
+          0,
+          0.6,
+          0
+        ]
+      },
+      "LegRightUpper": {
+        "scale": 1,
+        "rotation": [
+          -1.5707963267948966,
+          0.5866714155853536,
+          0
+        ],
+        "translation": [
+          -0.2,
+          0,
+          0
+        ]
+      }
+    },
+    "status": "public",
+    "createdAt": "$D2026-06-02T01:50:51.480Z",
+    "updatedAt": "$D2026-06-02T01:50:51.480Z",
+    "viewCount": 1876,
+    "renderCount": 354,
+    "aiDescription": ""
+  },
+  {
+    "id": "f744d535-0c71-43dc-9db4-fe0edaa52b36",
+    "isAiGenerated": false,
+    "featured": false,
+    "name": "Hero Pose",
+    "slug": "hero-pose-bR0phJ",
+    "imageUrl": "https://ifzp2hwuc5.ufs.sh/f/RFyaFWbnYvRpts9wI4ZXEuNW7kjfehOUQ59noI4KJTPzHAGd",
+    "authorId": 187,
+    "authorName": "tori",
+    "authorUsername": "tori",
+    "nodeTransformation": {
+      "Body": {
+        "rotation": [
+          1.5707963267948966,
+          0,
+          0
+        ]
+      },
+      "Head": {
+        "rotation": [
+          -0.24434609527920614,
+          0,
+          0
+        ]
+      },
+      "Main": {
+        "rotation": [
+          0,
+          0,
+          0
+        ]
+      },
+      "Chest": {
+        "rotation": [
+          0,
+          0,
+          0
+        ]
+      },
+      "Center": {
+        "rotation": [
+          0,
+          0,
+          0
+        ]
+      },
+      "ArmLeftLower": {
+        "rotation": [
+          0,
+          0,
+          1.0821041362364843
+        ]
+      },
+      "ArmLeftUpper": {
+        "rotation": [
+          3.07177948351002,
+          0,
+          -0.5235987755982988
+        ]
+      },
+      "LegLeftLower": {
+        "rotation": [
+          0,
+          0,
+          0
+        ]
+      },
+      "LegLeftUpper": {
+        "rotation": [
+          -1.5707963267948966,
+          0,
+          -0.15707963267948966
+        ]
+      },
+      "ArmRightLower": {
+        "rotation": [
+          0,
+          0,
+          -1.117010721276371
+        ]
+      },
+      "ArmRightUpper": {
+        "rotation": [
+          3.07177948351002,
+          0,
+          0.5235987755982988
+        ]
+      },
+      "LegRightLower": {
+        "rotation": [
+          0,
+          0,
+          0
+        ]
+      },
+      "LegRightUpper": {
+        "rotation": [
+          -1.5882496193148399,
+          0,
+          0.15707963267948966
+        ]
+      }
+    },
+    "status": "public",
+    "createdAt": "$D2025-10-11T14:04:32.457Z",
+    "updatedAt": "$D2026-04-21T16:08:24.634Z",
+    "viewCount": 1765,
+    "renderCount": 1849,
+    "aiDescription": "This Minecraft pose shows a character standing casually with hands confidently on hips. It's a great thumbnail for 'About Me' videos, server introduction ren..."
+  },
+  {
+    "id": "3f29b77f-4b64-418f-a143-8da84c094bf9",
+    "isAiGenerated": false,
+    "featured": false,
+    "name": "WHAT?!",
+    "slug": "what-2SDOBm",
+    "imageUrl": "https://ifzp2hwuc5.ufs.sh/f/RFyaFWbnYvRprPB80whgqDdBTzi7ngGjfLbhVsOk3tcNJEHa",
+    "authorId": 80,
+    "authorName": "anipo",
+    "authorUsername": "anipo",
+    "nodeTransformation": {
+      "Body": {
+        "rotation": [
+          1.5707963267948966,
+          0,
+          0
+        ]
+      },
+      "Head": {
+        "rotation": [
+          -0.4363323129985824,
+          0,
+          0
+        ]
+      },
+      "Main": {
+        "rotation": [
+          0,
+          0,
+          0
+        ]
+      },
+      "Chest": {
+        "rotation": [
+          0,
+          0,
+          0
+        ]
+      },
+      "Center": {
+        "rotation": [
+          0,
+          0,
+          0
+        ]
+      },
+      "ArmLeftLower": {
+        "rotation": [
+          0,
+          0,
+          1.1868238913561442
+        ]
+      },
+      "ArmLeftUpper": {
+        "rotation": [
+          -0.17453292519943295,
+          0,
+          -0.5061454830783556
+        ]
+      },
+      "LegLeftLower": {
+        "rotation": [
+          0,
+          0,
+          0
+        ]
+      },
+      "LegLeftUpper": {
+        "rotation": [
+          -1.5707963267948966,
+          0,
+          0
+        ]
+      },
+      "ArmRightLower": {
+        "rotation": [
+          0,
+          0,
+          1.1868238913561442
+        ]
+      },
+      "ArmRightUpper": {
+        "rotation": [
+          2.9321531433504737,
+          0,
+          2.6354471705114375
+        ]
+      },
+      "LegRightLower": {
+        "rotation": [
+          0,
+          0,
+          0
+        ]
+      },
+      "LegRightUpper": {
+        "rotation": [
+          -1.5707963267948966,
+          0,
+          0
+        ]
+      }
+    },
+    "status": "public",
+    "createdAt": "$D2025-10-04T08:52:17.653Z",
+    "updatedAt": "$D2025-10-04T08:52:17.653Z",
+    "viewCount": 1426,
+    "renderCount": 1064,
+    "aiDescription": null
+  },
+  {
+    "id": "67fcd527-bea5-41c2-ae62-bc45ee66b747",
+    "isAiGenerated": false,
+    "featured": false,
+    "name": "Dio Brando",
+    "slug": "dio-brando-bZfQcz",
+    "imageUrl": "https://ifzp2hwuc5.ufs.sh/f/RFyaFWbnYvRpM9q5j3HgPmFTvYiSyscCIq3rLEOdHtJ9NeGU",
+    "authorId": 187,
+    "authorName": "tori",
+    "authorUsername": "tori",
+    "nodeTransformation": {
+      "Body": {
+        "rotation": [
+          1.1344640137963142,
+          0,
+          0
+        ]
+      },
+      "Head": {
+        "rotation": [
+          0,
+          0,
+          0
+        ]
+      },
+      "Main": {
+        "rotation": [
+          0,
+          0,
+          0
+        ]
+      },
+      "Chest": {
+        "rotation": [
+          0,
+          0,
+          0
+        ]
+      },
+      "Center": {
+        "rotation": [
+          0,
+          0,
+          0
+        ]
+      },
+      "ArmLeftLower": {
+        "rotation": [
+          0,
+          0,
+          0.7504915783575616
+        ]
+      },
+      "ArmLeftUpper": {
+        "rotation": [
+          0.7853981633974483,
+          -0.19198621771937624,
+          -1.5533430342749535
+        ]
+      },
+      "LegLeftLower": {
+        "rotation": [
+          0,
+          0,
+          0
+        ]
+      },
+      "LegLeftUpper": {
+        "rotation": [
+          -1.5707963267948966,
+          -0.22689280275926285,
+          -0.12217304763960307
+        ]
+      },
+      "ArmRightLower": {
+        "rotation": [
+          0,
+          0,
+          -0.7330382858376184
+        ]
+      },
+      "ArmRightUpper": {
+        "rotation": [
+          0.7853981633974483,
+          0.19198621771937624,
+          1.5533430342749535
+        ]
+      },
+      "LegRightLower": {
+        "rotation": [
+          0,
+          0,
+          0
+        ]
+      },
+      "LegRightUpper": {
+        "rotation": [
+          -1.605702911834783,
+          0.22689280275926285,
+          0
+        ]
+      }
+    },
+    "status": "public",
+    "createdAt": "$D2025-10-12T12:48:29.184Z",
+    "updatedAt": "$D2026-04-21T16:08:39.765Z",
+    "viewCount": 1327,
+    "renderCount": 1193,
+    "aiDescription": "This Minecraft pose shows a character standing with arms outstretched in a welcoming hug â ideal reference for a friendly NPC render or cheerful YouTube thum..."
+  },
+  {
+    "id": "226a7e71-89f5-4267-855d-918fdb03dde4",
+    "isAiGenerated": false,
+    "featured": false,
+    "name": "battle v2",
+    "slug": "battle-v2-af1367a7",
+    "imageUrl": "https://ifzp2hwuc5.ufs.sh/f/RFyaFWbnYvRpEAscrje497osF10S5ckg2lfYxOpZeXJnR8GA",
+    "authorId": 27307,
+    "authorName": "bagus",
+    "authorUsername": "bagus",
+    "nodeTransformation": {
+      "Body": {
+        "scale": 1,
+        "rotation": [
+          1.5707963267948963,
+          0,
+          0
+        ],
+        "translation": [
+          0,
+          0,
+          0
+        ]
+      },
+      "Head": {
+        "scale": 1,
+        "rotation": [
+          0,
+          0.5235987755982988,
+          0
+        ],
+        "translation": [
+          0,
+          0.6,
+          0
+        ]
+      },
+      "Main": {
+        "rotation": [
+          0,
+          0,
+          0
+        ]
+      },
+      "Chest": {
+        "rotation": [
+          0,
+          0,
+          0
+        ]
+      },
+      "Center": {
+        "rotation": [
+          0,
+          0,
+          0
+        ]
+      },
+      "__heldItems": {
+        "mainHandItem": {
+          "itemScale": [
+            0.075,
+            0.075,
+            0.075
+          ],
+          "itemEnabled": true,
+          "itemTexture": "/textures/items/diamond_sword.png",
+          "itemRotation": [
+            0.3141592653589793,
+            1.5707963267948966,
+            -0.7853981633974483
+          ],
+          "itemTranslation": [
+            0,
+            0.61,
+            -0.81
+          ]
+        }
+      },
+      "ArmLeftLower": {
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "translation": [
+          0,
+          0.4,
+          0
+        ]
+      },
+      "ArmLeftUpper": {
+        "scale": 1,
+        "rotation": [
+          -2.426007660272118,
+          0,
+          0
+        ],
+        "translation": [
+          0.6,
+          0.41,
+          0
+        ]
+      },
+      "LegLeftLower": {
+        "scale": 1,
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "translation": [
+          0,
+          0.6,
+          0
+        ]
+      },
+      "LegLeftUpper": {
+        "scale": 1,
+        "rotation": [
+          -0.8552113334772211,
+          -0.20943951023931948,
+          2.8375651685703364e-17
+        ],
+        "translation": [
+          0.1828604712093049,
+          -0.0002499392338186496,
+          0.12797171784981431
+        ]
+      },
+      "ArmRightLower": {
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "translation": [
+          0,
+          0.4,
+          0
+        ]
+      },
+      "ArmRightUpper": {
+        "scale": 1,
+        "rotation": [
+          1.9373154697137058,
+          -1.6231562043547263,
+          0.06981317007977318
+        ],
+        "translation": [
+          -0.6,
+          0.4,
+          0
+        ]
+      },
+      "LegRightLower": {
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "translation": [
+          0,
+          0.6,
+          0
+        ]
+      },
+      "LegRightUpper": {
+        "scale": 1,
+        "rotation": [
+          -2.286381320112572,
+          0,
+          0
+        ],
+        "translation": [
+          -0.2,
+          0,
+          0
+        ]
+      }
+    },
+    "status": "public",
+    "createdAt": "$D2026-06-19T07:36:14.605Z",
+    "updatedAt": "$D2026-06-19T07:36:14.605Z",
+    "viewCount": 1287,
+    "renderCount": 267,
+    "aiDescription": "This dynamic Minecraft pose features a character lunging forward with a sword held low, ideal for combat-focused YouTube thumbnails and PvP montage renders."
+  },
+  {
+    "id": "e98869ee-f5bc-4a81-bb46-3d2f99cf7a6b",
+    "isAiGenerated": false,
+    "featured": false,
+    "name": "Spiderman",
+    "slug": "spiderman-NpYuGB",
+    "imageUrl": "https://ifzp2hwuc5.ufs.sh/f/RFyaFWbnYvRpYHAfVrGXCgE6Xpcf2syQPriewtVJlb7LN0Mh",
+    "authorId": 118,
+    "authorName": "spuderman",
+    "authorUsername": "spuderman",
+    "nodeTransformation": {
+      "Body": {
+        "rotation": [
+          1.8849555921538759,
+          0.5061454830783556,
+          0.13962634015954636
+        ]
+      },
+      "Head": {
+        "rotation": [
+          -0.3490658503988659,
+          -0.4886921905584123,
+          0
+        ]
+      },
+      "Main": {
+        "rotation": [
+          0,
+          0,
+          0
+        ]
+      },
+      "Chest": {
+        "rotation": [
+          0,
+          0,
+          0
+        ]
+      },
+      "Center": {
+        "rotation": [
+          0,
+          0,
+          0
+        ]
+      },
+      "ArmLeftLower": {
+        "rotation": [
+          -0.3839724354387525,
+          0,
+          0
+        ]
+      },
+      "ArmLeftUpper": {
+        "rotation": [
+          3.141592653589793,
+          -0.4886921905584123,
+          -0.8377580409572781
+        ]
+      },
+      "LegLeftLower": {
+        "rotation": [
+          0.8377580409572781,
+          0,
+          0
+        ]
+      },
+      "LegLeftUpper": {
+        "rotation": [
+          -1.3264502315156903,
+          0,
+          -0.17453292519943295
+        ]
+      },
+      "ArmRightLower": {
+        "rotation": [
+          0,
+          0,
+          0
+        ]
+      },
+      "ArmRightUpper": {
+        "rotation": [
+          0.4363323129985824,
+          0.2617993877991494,
+          0.4537856055185257
+        ]
+      },
+      "LegRightLower": {
+        "rotation": [
+          0.5585053606381855,
+          0,
+          0
+        ]
+      },
+      "LegRightUpper": {
+        "rotation": [
+          -0.767944870877505,
+          0.41887902047863906,
+          0.12217304763960307
+        ]
+      }
+    },
+    "status": "public",
+    "createdAt": "$D2025-10-15T07:25:58.828Z",
+    "updatedAt": "$D2026-04-21T16:13:28.188Z",
+    "viewCount": 1089,
+    "renderCount": 650,
+    "aiDescription": "This Minecraft pose shows a character diving through the air, arms outstretched for flight or a superhero landing! Use it in YouTube thumbnails, animation re..."
+  },
+  {
+    "id": "0746dafa-c385-450b-99ef-625ea3e8c417",
+    "isAiGenerated": false,
+    "featured": false,
+    "name": "Pvper",
+    "slug": "pvper-088da9ba",
+    "imageUrl": "https://ifzp2hwuc5.ufs.sh/f/RFyaFWbnYvRp1ZzWHxTfNGydBDKxz0wXoQpjbVmci7CeAJgL",
+    "authorId": 33927,
+    "authorName": "kashi",
+    "authorUsername": "kashi",
+    "nodeTransformation": {
+      "Body": {
+        "scale": 1,
+        "rotation": [
+          1.5707963267948966,
+          0,
+          0
+        ],
+        "translation": [
+          0,
+          0,
+          0
+        ]
+      },
+      "Head": {
+        "scale": 1,
+        "rotation": [
+          0.4363323129985824,
+          0,
+          0
+        ],
+        "translation": [
+          0,
+          0.6,
+          0
+        ]
+      },
+      "Main": {
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "translation": [
+          0,
+          -0.3926849365234375,
+          0
+        ]
+      },
+      "Chest": {
+        "scale": [
+          1,
+          1,
+          1
+        ],
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "translation": [
+          0,
+          0.6,
+          0
+        ]
+      },
+      "Center": {
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "translation": [
+          0,
+          0,
+          1.6119829416275024
+        ]
+      },
+      "__armor": {
+        "armor": {
+          "bootsTier": "netherite",
+          "helmetTier": "netherite",
+          "layer1Tier": "netherite",
+          "layer2Tier": "netherite",
+          "glintEnabled": false,
+          "leatherDyeL1": "#c65c00",
+          "leatherDyeL2": "#c65c00",
+          "leggingsTier": "netherite",
+          "elytraEnabled": true,
+          "layer1Enabled": true,
+          "layer2Enabled": true,
+          "chestplateTier": "netherite",
+          "bootsTrimPattern": null,
+          "elytraTextureUrl": null,
+          "bootsTrimMaterial": null,
+          "helmetTrimPattern": null,
+          "helmetTrimMaterial": null,
+          "leggingsTrimPattern": null,
+          "leggingsTrimMaterial": null,
+          "chestplateTrimPattern": null,
+          "chestplateTrimMaterial": null
+        }
+      },
+      "__scene": {
+        "version": 1,
+        "entities": [
+          {
+            "id": "e0",
+            "type": "player",
+            "placement": {
+              "scale": 1.63,
+              "position": [
+                0,
+                0.55,
+                0
+              ],
+              "rotation": [
+                0,
+                0,
+                0
+              ]
+            }
+          }
+        ]
+      },
+      "__heldItems": {
+        "offHandItem": {
+          "itemGlint": true,
+          "itemScale": [
+            0.085,
+            0.085,
+            0.085
+          ],
+          "itemEnabled": true,
+          "itemTexture": "/textures/items/mace.png",
+          "itemRotation": [
+            0,
+            1.570796,
+            -0.785398
+          ],
+          "itemTranslation": [
+            0,
+            0.45,
+            -0.35
+          ]
+        }
+      },
+      "ArmLeftLower": {
+        "scale": 1,
+        "rotation": [
+          0.06981317007977318,
+          0,
+          0
+        ],
+        "translation": [
+          0,
+          0.4,
+          0
+        ]
+      },
+      "ArmLeftUpper": {
+        "scale": 1,
+        "rotation": [
+          1.8325957145940461,
+          -0.10471975511965977,
+          0
+        ],
+        "translation": [
+          0.65,
+          0.25,
+          0
+        ]
+      },
+      "LegLeftLower": {
+        "scale": 1,
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "translation": [
+          0,
+          0.6,
+          0
+        ]
+      },
+      "LegLeftUpper": {
+        "scale": 1,
+        "rotation": [
+          -0.9599310885968813,
+          0,
+          0
+        ],
+        "translation": [
+          0.2,
+          0,
+          0
+        ]
+      },
+      "ArmRightLower": {
+        "scale": 1,
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "translation": [
+          0,
+          0.4,
+          0
+        ]
+      },
+      "ArmRightUpper": {
+        "scale": 1,
+        "rotation": [
+          -2.1467549799530254,
+          0,
+          0.15707963267948966
+        ],
+        "translation": [
+          -0.6,
+          0.4,
+          0
+        ]
+      },
+      "LegRightLower": {
+        "scale": 1,
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "translation": [
+          0,
+          0.6,
+          0
+        ]
+      },
+      "LegRightUpper": {
+        "scale": 1,
+        "rotation": [
+          -2.2165681500327987,
+          0,
+          0
+        ],
+        "translation": [
+          -0.2,
+          0,
+          0
+        ]
+      }
+    },
+    "status": "public",
+    "createdAt": "$D2026-09-05T03:55:39.633Z",
+    "updatedAt": "$D2026-09-05T03:55:39.633Z",
+    "viewCount": 184,
+    "renderCount": 4,
+    "aiDescription": "A dynamic Minecraft pose featuring a character in mid-stride or jumping, ideal for creating high-energy YouTube thumbnail art and movement-focused renders."
+  },
+  {
+    "id": "f4ecc303-925f-4358-9bc6-e69563005dbd",
+    "isAiGenerated": false,
+    "featured": false,
+    "name": "fall",
+    "slug": "fall-LLaUBa",
+    "imageUrl": "https://ifzp2hwuc5.ufs.sh/f/RFyaFWbnYvRptiOQNiZXEuNW7kjfehOUQ59noI4KJTPzHAGd",
+    "authorId": 5,
+    "authorName": "tejasb",
+    "authorUsername": "tester",
+    "nodeTransformation": {
+      "Body": {
+        "rotation": [
+          0.47123889803846897,
+          0,
+          0
+        ]
+      },
+      "Head": {
+        "rotation": [
+          0,
+          0,
+          0
+        ]
+      },
+      "Main": {
+        "rotation": [
+          0,
+          0,
+          0
+        ]
+      },
+      "Chest": {
+        "rotation": [
+          0,
+          0,
+          0
+        ]
+      },
+      "Center": {
+        "rotation": [
+          0,
+          0,
+          0
+        ]
+      },
+      "ArmLeftLower": {
+        "rotation": [
+          0,
+          0,
+          0
+        ]
+      },
+      "ArmLeftUpper": {
+        "rotation": [
+          1.064650843716541,
+          0,
+          -0.6806784082777885
+        ]
+      },
+      "LegLeftLower": {
+        "rotation": [
+          0,
+          0,
+          0
+        ]
+      },
+      "LegLeftUpper": {
+        "rotation": [
+          -3.141592653589793,
+          0,
+          0
+        ]
+      },
+      "ArmRightLower": {
+        "rotation": [
+          0,
+          0,
+          0
+        ]
+      },
+      "ArmRightUpper": {
+        "rotation": [
+          0.715584993317675,
+          0,
+          0.41887902047863906
+        ]
+      },
+      "LegRightLower": {
+        "rotation": [
+          0,
+          0,
+          0
+        ]
+      },
+      "LegRightUpper": {
+        "rotation": [
+          -1.9722220547535922,
+          0,
+          0
+        ]
+      }
+    },
+    "status": "public",
+    "createdAt": "$D2025-10-01T10:44:34.275Z",
+    "updatedAt": "$D2025-10-01T10:44:34.275Z",
+    "viewCount": 454,
+    "renderCount": 422,
+    "aiDescription": null
+  },
+  {
+    "id": "5c6f197d-3d51-4d4d-a475-b92fccd9ac84",
+    "isAiGenerated": false,
+    "featured": false,
+    "name": "Wooohoooo",
+    "slug": "wooohoooo-qHxjBy",
+    "imageUrl": "https://ifzp2hwuc5.ufs.sh/f/RFyaFWbnYvRpQvTX1xInRhc9dtJqEHpZ4TD76ekN3PKGzCIX",
+    "authorId": 142,
+    "authorName": "henning",
+    "authorUsername": "henning",
+    "nodeTransformation": {
+      "Body": {
+        "rotation": [
+          1.5707963267948966,
+          0,
+          0
+        ]
+      },
+      "Head": {
+        "rotation": [
+          -0.2617993877991494,
+          0,
+          0
+        ]
+      },
+      "Main": {
+        "rotation": [
+          0,
+          0,
+          0
+        ]
+      },
+      "Chest": {
+        "rotation": [
+          0,
+          0,
+          0
+        ]
+      },
+      "Center": {
+        "rotation": [
+          0,
+          0,
+          0
+        ]
+      },
+      "ArmLeftLower": {
+        "rotation": [
+          0,
+          0,
+          -0.3665191429188092
+        ]
+      },
+      "ArmLeftUpper": {
+        "rotation": [
+          -3.01941960595019,
+          0,
+          -2.5307274153917776
+        ]
+      },
+      "LegLeftLower": {
+        "rotation": [
+          0.22689280275926285,
+          0,
+          0
+        ]
+      },
+      "LegLeftUpper": {
+        "rotation": [
+          -1.5707963267948966,
+          0,
+          -0.3839724354387525
+        ]
+      },
+      "ArmRightLower": {
+        "rotation": [
+          0,
+          0,
+          0.29670597283903605
+        ]
+      },
+      "ArmRightUpper": {
+        "rotation": [
+          -2.8623399732707,
+          0,
+          2.5830872929516078
+        ]
+      },
+      "LegRightLower": {
+        "rotation": [
+          0.3490658503988659,
+          0,
+          0
+        ]
+      },
+      "LegRightUpper": {
+        "rotation": [
+          -1.5707963267948966,
+          0,
+          0.3141592653589793
+        ]
+      }
+    },
+    "status": "public",
+    "createdAt": "$D2025-10-08T06:54:37.223Z",
+    "updatedAt": "$D2026-04-21T16:20:54.489Z",
+    "viewCount": 446,
+    "renderCount": 480,
+    "aiDescription": "This Minecraft pose features a character with arms raised and a slight kick, ideal if you need lively thumbnails for tutorials or a cheerful player render fo..."
+  },
+  {
+    "id": "7f40d46a-f906-4d06-9c4b-194df3f2df93",
+    "isAiGenerated": false,
+    "featured": false,
+    "name": "wave",
+    "slug": "wave-nS2RLf",
+    "imageUrl": "https://ifzp2hwuc5.ufs.sh/f/RFyaFWbnYvRpmZ3Blor7HPARCQqxcpGEbgtyhOVwFnlX12KT",
+    "authorId": 3,
+    "authorName": "diversifiedplayz",
+    "authorUsername": "diversifiedplayz",
+    "nodeTransformation": {
+      "Body": {
+        "rotation": [
+          1.5707963267948966,
+          0,
+          -0.03490658503988659
+        ]
+      },
+      "Head": {
+        "rotation": [
+          0.017453292519943295,
+          0,
+          0
+        ]
+      },
+      "Main": {
+        "rotation": [
+          0,
+          0,
+          0
+        ]
+      },
+      "Chest": {
+        "rotation": [
+          0,
+          0,
+          0
+        ]
+      },
+      "Center": {
+        "rotation": [
+          0,
+          0,
+          0
+        ]
+      },
+      "ArmLeftLower": {
+        "rotation": [
+          0,
+          0,
+          0
+        ]
+      },
+      "ArmLeftUpper": {
+        "rotation": [
+          -0.20943951023931953,
+          0,
+          -0.7330382858376184
+        ]
+      },
+      "LegLeftLower": {
+        "rotation": [
+          0,
+          0,
+          0
+        ]
+      },
+      "LegLeftUpper": {
+        "rotation": [
+          -1.5707963267948966,
+          0,
+          0
+        ]
+      },
+      "ArmRightLower": {
+        "rotation": [
+          0,
+          0,
+          0
+        ]
+      },
+      "ArmRightUpper": {
+        "rotation": [
+          3.141592653589793,
+          0,
+          0
+        ]
+      },
+      "LegRightLower": {
+        "rotation": [
+          0,
+          0,
+          0
+        ]
+      },
+      "LegRightUpper": {
+        "rotation": [
+          -1.5707963267948966,
+          0,
+          0
+        ]
+      }
+    },
+    "status": "public",
+    "createdAt": "$D2025-09-20T17:16:28.987Z",
+    "updatedAt": "$D2026-04-21T16:29:31.865Z",
+    "viewCount": 365,
+    "renderCount": 305,
+    "aiDescription": "This simple Minecraft pose shows a character waving to viewers with a raised hand, ideal for friendly YouTube thumbnails, welcoming server banners, or fun an..."
+  },
+  {
+    "id": "0adb21f4-4eb9-40c5-a527-aeb9bf0f6879",
+    "isAiGenerated": false,
+    "featured": false,
+    "name": "Relaxed Sitting",
+    "slug": "relaxed-sitting-79ebe890",
+    "imageUrl": "https://ifzp2hwuc5.ufs.sh/f/RFyaFWbnYvRpxL9x82heKlXrwfjgNSdvBm5QDMuULtnG0k1V",
+    "authorId": 25760,
+    "authorName": "pixel0s",
+    "authorUsername": "pixel0s",
+    "nodeTransformation": {
+      "Body": {
+        "rotation": [
+          1.5707963267948966,
+          0,
+          0
+        ]
+      },
+      "Head": {
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "translation": [
+          0,
+          0.6,
+          0
+        ]
+      },
+      "Main": {
+        "rotation": [
+          0,
+          0,
+          0
+        ]
+      },
+      "Chest": {
+        "rotation": [
+          0,
+          0,
+          0
+        ]
+      },
+      "Center": {
+        "rotation": [
+          0,
+          0,
+          0
+        ]
+      },
+      "ArmLeftLower": {
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "translation": [
+          0,
+          0.4,
+          0
+        ]
+      },
+      "ArmLeftUpper": {
+        "scale": 1,
+        "rotation": [
+          3.141592653589793,
+          -0.4886921905584123,
+          0
+        ],
+        "translation": [
+          0.6,
+          0.27,
+          0
+        ]
+      },
+      "LegLeftLower": {
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "translation": [
+          0,
+          0.6,
+          0
+        ]
+      },
+      "LegLeftUpper": {
+        "scale": 1,
+        "rotation": [
+          -1.7627825445142729,
+          -0.3839724354387525,
+          0
+        ],
+        "translation": [
+          0.2,
+          -0.37,
+          0.99
+        ]
+      },
+      "ArmRightLower": {
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "translation": [
+          0,
+          0.4,
+          0
+        ]
+      },
+      "ArmRightUpper": {
+        "scale": 1,
+        "rotation": [
+          2.722713633111154,
+          -0.5585053606381855,
+          0
+        ],
+        "translation": [
+          -0.6,
+          0.4,
+          0
+        ]
+      },
+      "LegRightLower": {
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "translation": [
+          0,
+          0.6,
+          0
+        ]
+      },
+      "LegRightUpper": {
+        "scale": 1,
+        "rotation": [
+          -3.141592653589793,
+          0,
+          0
+        ],
+        "translation": [
+          -0.2,
+          0,
+          0
+        ]
+      }
+    },
+    "status": "public",
+    "createdAt": "$D2026-05-29T19:03:37.634Z",
+    "updatedAt": "$D2026-05-29T19:03:37.634Z",
+    "viewCount": 374,
+    "renderCount": 73,
+    "aiDescription": "This Minecraft pose features a character sitting with legs outstretched and a slight slouch, great for creating relaxed character renders or contemplative Yo..."
+  },
+  {
+    "id": "3eff1c5d-f8e3-47c6-b01f-c0f43ff07a14",
+    "isAiGenerated": false,
+    "featured": false,
+    "name": "Jotaro Kujo",
+    "slug": "jotaro-kuj-hkPT2h",
+    "imageUrl": "https://ifzp2hwuc5.ufs.sh/f/RFyaFWbnYvRpeHsHq8uvDTYuJ5fmkQgqWi9earsRo7ZPXEpV",
+    "authorId": 187,
+    "authorName": "tori",
+    "authorUsername": "tori",
+    "nodeTransformation": {
+      "Body": {
+        "rotation": [
+          1.4660765716752369,
+          -0.5934119456780721,
+          0
+        ]
+      },
+      "Head": {
+        "rotation": [
+          0.3490658503988659,
+          0.2792526803190927,
+          0
+        ]
+      },
+      "Main": {
+        "rotation": [
+          0,
+          0,
+          0
+        ]
+      },
+      "Chest": {
+        "rotation": [
+          0,
+          0,
+          0
+        ]
+      },
+      "Center": {
+        "rotation": [
+          0,
+          0,
+          0
+        ]
+      },
+      "ArmLeftLower": {
+        "rotation": [
+          0,
+          0,
+          0
+        ]
+      },
+      "ArmLeftUpper": {
+        "rotation": [
+          1.5009831567151233,
+          -0.3665191429188092,
+          -0.41887902047863906
+        ]
+      },
+      "LegLeftLower": {
+        "rotation": [
+          0,
+          0,
+          0
+        ]
+      },
+      "LegLeftUpper": {
+        "rotation": [
+          -1.5707963267948966,
+          0,
+          -0.29670597283903605
+        ]
+      },
+      "ArmRightLower": {
+        "rotation": [
+          0,
+          0,
+          0
+        ]
+      },
+      "ArmRightUpper": {
+        "rotation": [
+          3.141592653589793,
+          -0.15707963267948966,
+          -0.19198621771937624
+        ]
+      },
+      "LegRightLower": {
+        "rotation": [
+          0,
+          0,
+          0
+        ]
+      },
+      "LegRightUpper": {
+        "rotation": [
+          -1.5707963267948966,
+          0,
+          0.05235987755982988
+        ]
+      }
+    },
+    "status": "public",
+    "createdAt": "$D2025-10-12T11:09:54.175Z",
+    "updatedAt": "$D2026-04-21T16:12:41.689Z",
+    "viewCount": 862,
+    "renderCount": 599,
+    "aiDescription": "This neutral Minecraft pose shows a character with fists raised in a ready stance, ideal for a YouTube thumbnail about fighting tips, or to render defensive..."
+  },
+  {
+    "id": "3b49720d-c9e7-4168-9ed7-4394af55c9f4",
+    "isAiGenerated": false,
+    "featured": false,
+    "name": "run",
+    "slug": "run-_xRApj",
+    "imageUrl": "https://ifzp2hwuc5.ufs.sh/f/RFyaFWbnYvRpoIYRKOkGDMFXpfvJOnCAg8rH253syRNh7dST",
+    "authorId": 3,
+    "authorName": "diversifiedplayz",
+    "authorUsername": "diversifiedplayz",
+    "nodeTransformation": {
+      "Body": {
+        "rotation": [
+          1.7453292519943295,
+          0,
+          0
+        ]
+      },
+      "Head": {
+        "rotation": [
+          -0.017453292519943295,
+          0,
+          0
+        ]
+      },
+      "Main": {
+        "rotation": [
+          0,
+          0,
+          0
+        ]
+      },
+      "Chest": {
+        "rotation": [
+          0,
+          0,
+          0
+        ]
+      },
+      "Center": {
+        "rotation": [
+          0,
+          0,
+          0
+        ]
+      },
+      "ArmLeftLower": {
+        "rotation": [
+          0,
+          0,
+          0
+        ]
+      },
+      "ArmLeftUpper": {
+        "rotation": [
+          -2.356194490192345,
+          0,
+          0
+        ]
+      },
+      "LegLeftLower": {
+        "rotation": [
+          0.20943951023931953,
+          0,
+          0
+        ]
+      },
+      "LegLeftUpper": {
+        "rotation": [
+          -2.234021442552742,
+          0,
+          0
+        ]
+      },
+      "ArmRightLower": {
+        "rotation": [
+          -0.41887902047863906,
+          0,
+          0
+        ]
+      },
+      "ArmRightUpper": {
+        "rotation": [
+          2.356194490192345,
+          0,
+          0
+        ]
+      },
+      "LegRightLower": {
+        "rotation": [
+          0.3665191429188092,
+          0,
+          0
+        ]
+      },
+      "LegRightUpper": {
+        "rotation": [
+          -0.9773843811168246,
+          0,
+          0
+        ]
+      }
+    },
+    "status": "public",
+    "createdAt": "$D2025-09-20T17:41:02.568Z",
+    "updatedAt": "$D2026-04-21T16:15:00.463Z",
+    "viewCount": 800,
+    "renderCount": 776,
+    "aiDescription": "This Minecraft pose of a character with fists raised in a classic boxing stance can be used for YouTube thumbnails about PvP combat or training montage renders."
+  },
+  {
+    "id": "6c901229-2499-47de-853f-f110b066056e",
+    "isAiGenerated": false,
+    "featured": false,
+    "name": "Floating",
+    "slug": "floating-b3a65c9a",
+    "imageUrl": "https://ifzp2hwuc5.ufs.sh/f/RFyaFWbnYvRpbOODTMiSP1hMZRL2KXyF0rC4AGwSnm6EYB8f",
+    "authorId": 25507,
+    "authorName": "vermillionmelon",
+    "authorUsername": "vermillionmelon",
+    "nodeTransformation": {
+      "Body": {
+        "rotation": [
+          1.239183768915974,
+          0,
+          0
+        ],
+        "translation": [
+          0,
+          0,
+          0
+        ]
+      },
+      "Head": {
+        "rotation": [
+          0.29670597283903605,
+          -0.47123889803846897,
+          0
+        ],
+        "translation": [
+          0,
+          0.6,
+          0
+        ]
+      },
+      "Main": {
+        "rotation": [
+          0,
+          0,
+          0
+        ]
+      },
+      "Chest": {
+        "rotation": [
+          0,
+          0,
+          0
+        ]
+      },
+      "Center": {
+        "rotation": [
+          0,
+          0,
+          0
+        ]
+      },
+      "ArmLeftLower": {
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "translation": [
+          0,
+          0.4,
+          0
+        ]
+      },
+      "ArmLeftUpper": {
+        "rotation": [
+          -2.6179938779914944,
+          -0.3316125578789226,
+          0
+        ],
+        "translation": [
+          0.6,
+          0.41,
+          0
+        ]
+      },
+      "LegLeftLower": {
+        "rotation": [
+          1.2217304763960306,
+          0.034906585039886605,
+          -0.0004268608137627214
+        ],
+        "translation": [
+          0,
+          0.6,
+          0
+        ]
+      },
+      "LegLeftUpper": {
+        "rotation": [
+          -2.897246558310587,
+          -0.22689280275926285,
+          -0.22689280275926285
+        ],
+        "translation": [
+          0.2,
+          0,
+          0
+        ]
+      },
+      "ArmRightLower": {
+        "rotation": [
+          -0.6677753209522843,
+          0,
+          0
+        ],
+        "translation": [
+          0,
+          0.4,
+          0
+        ]
+      },
+      "ArmRightUpper": {
+        "rotation": [
+          -2.3387411976724013,
+          0.6806784082777885,
+          0.5235987755982988
+        ],
+        "translation": [
+          -0.6,
+          0.4,
+          0
+        ]
+      },
+      "LegRightLower": {
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "translation": [
+          0,
+          0.7,
+          0
+        ]
+      },
+      "LegRightUpper": {
+        "rotation": [
+          -2.2875794622731838,
+          0.37113661904966844,
+          -0.12271483546463662
+        ],
+        "translation": [
+          -0.2,
+          0,
+          0
+        ]
+      }
+    },
+    "status": "public",
+    "createdAt": "$D2026-05-26T20:52:01.788Z",
+    "updatedAt": "$D2026-05-26T20:52:01.788Z",
+    "viewCount": 911,
+    "renderCount": 172,
+    "aiDescription": "Eats"
+  }
+]

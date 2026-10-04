@@ -1,0 +1,16 @@
+# Not found
+
+`/steve.png` does not exist on MCRender.
+
+## Where to go next
+
+- [Sitemap](https://www.mcrender.net/sitemap.xml) — every public HTML page
+- [llms.txt](https://www.mcrender.net/llms.txt) — short index for language models
+- [Document catalog](https://www.mcrender.net/api/md/_catalog) — markdown twins of product pages
+- [OpenAPI](https://www.mcrender.net/openapi.json) — public API description
+- [Auth](https://www.mcrender.net/auth.md) — there is no API key; every surface below is public
+- [MCP](https://www.mcrender.net/mcp) — search poses, read docs, get pricing
+
+There is no render API. Rendering runs in the browser. Hand the user a pose URL
+from the sitemap or the MCP `search_poses` tool instead of trying to export
+an image on their behalf.

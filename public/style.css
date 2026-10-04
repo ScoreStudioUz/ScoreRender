@@ -1,0 +1,72 @@
+/* Custom CSS for MCRender Studio */
+
+/* Checkerboard pattern for transparent preview */
+.bg-checkerboard {
+  background-color: #1e293b;
+  background-image: linear-gradient(45deg, #0f172a 25%, transparent 25%),
+                    linear-gradient(-45deg, #0f172a 25%, transparent 25%),
+                    linear-gradient(45deg, transparent 75%, #0f172a 75%),
+                    linear-gradient(-45deg, transparent 75%, #0f172a 75%);
+  background-size: 10px 10px;
+  background-position: 0 0, 0 5px, 5px -5px, -5px 0px;
+}
+
+#canvasContainer.transparent-bg {
+  background-color: #0c101c;
+  background-image: linear-gradient(45deg, #131a29 25%, transparent 25%),
+                    linear-gradient(-45deg, #131a29 25%, transparent 25%),
+                    linear-gradient(45deg, transparent 75%, #131a29 75%),
+                    linear-gradient(-45deg, transparent 75%, #131a29 75%);
+  background-size: 20px 20px;
+  background-position: 0 0, 0 10px, 10px -10px, -10px 0px;
+}
+
+#canvasContainer.dark-bg {
+  background: radial-gradient(circle at 50% 40%, #1e2333 0%, #0d111a 75%, #080a10 100%);
+}
+
+#canvasContainer.cyber-bg {
+  background: radial-gradient(circle at 60% 30%, #3b0764 0%, #1e1b4b 50%, #030712 100%);
+}
+
+#canvasContainer.green-bg {
+  background-color: #00ff00;
+}
+
+/* Custom Scrollbars */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-track {
+  background: #0b0f19;
+}
+::-webkit-scrollbar-thumb {
+  background: #1f293d;
+  border-radius: 9999px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #334155;
+}
+
+/* Pose Card Hover Effects */
+.pose-card {
+  transition: all 0.25s cubic-bezier(0.16, 1, 0.3, 1);
+}
+.pose-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 12px 30px -10px rgba(16, 185, 129, 0.15);
+}
+
+/* Pulse glow animation for buttons */
+@keyframes glowPulse {
+  0%, 100% {
+    box-shadow: 0 0 15px rgba(16, 185, 129, 0.3);
+  }
+  50% {
+    box-shadow: 0 0 25px rgba(16, 185, 129, 0.6);
+  }
+}
+.glow-pulse {
+  animation: glowPulse 2s infinite ease-in-out;
+}
